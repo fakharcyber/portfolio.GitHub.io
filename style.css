@@ -1,0 +1,52 @@
+*{
+    background-color: black;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  .navbar {
+    background-color: #333; 
+    color: white;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none; 
+    display: flex; 
+    justify-content: center; 
+  }
+  
+  .navbar ul li {
+    margin: 0 20px; 
+  }
+  
+  .navbar ul li a {
+    color: white; 
+    text-decoration: none; 
+    font-size: 18px; 
+    padding: 5px 10px; 
+    display: block;
+  }
+  
+  .navbar ul li a:hover {
+    background-color: #575757; 
+    border-radius: 5px; 
+  }
+
+.container1{
+    color: rgb(255, 255, 255);
+    margin-top: 20%;
+    text-align: center;
+    
+}
+.container{
+    color: white;
+    
+}
+.col{
+  margin-left: 25px;
+}
